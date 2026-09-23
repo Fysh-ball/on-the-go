@@ -6,6 +6,25 @@ Log into Instagram once inside the app. While you're on wifi, it quietly fills a
 
 **[Download the latest APK](https://github.com/Fysh-ball/on-the-go/releases/latest)** · or [fysh.site/otg/on-the-go.apk](https://fysh.site/otg/on-the-go.apk)
 
+<p align="center">
+  <img src="screenshots/reels.gif" width="300" alt="Double tap to like, tap to mute, hold for 2x">
+</p>
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/home.png" width="200"><br>Home: the tank filling on wifi</td>
+    <td align="center"><img src="screenshots/player.png" width="200"><br>Reels, the Instagram way</td>
+    <td align="center"><img src="screenshots/comments.png" width="200"><br>Comments</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/chats.png" width="200"><br>Messages and Notes</td>
+    <td align="center"><img src="screenshots/chat-after.png" width="200"><br>Chats: shared reels, hearts, swipe to reply</td>
+    <td align="center"><img src="screenshots/sources.png" width="200"><br>Choose where Reels come from</td>
+  </tr>
+</table>
+
+<sub>Names, faces and messages are blurred.</sub>
+
 ---
 
 ## What it does
